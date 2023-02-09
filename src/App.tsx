@@ -1,12 +1,10 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 
 
-function App() {
-  return (
-    <div className="App">
-      
-    </div>
-  );
-}
+const App: React.FC = () => (
+  <Fragment>
+   
+  </Fragment>
+);
 
 export default App;
